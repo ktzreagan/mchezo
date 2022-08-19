@@ -1,0 +1,1 @@
+const iconFontSize = 18.0;
